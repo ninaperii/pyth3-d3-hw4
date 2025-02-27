@@ -1,3 +1,5 @@
 print("4th task")
 
-print("*problem that needs fixing*")
+print("*fixed the first problem*")
+
+print("*another problem*")
